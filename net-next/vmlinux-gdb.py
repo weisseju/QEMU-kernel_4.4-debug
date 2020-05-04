@@ -1,0 +1,1 @@
+/home/jw/brush/net-next/scripts/gdb/vmlinux-gdb.py
